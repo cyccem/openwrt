@@ -74,7 +74,7 @@ git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/fw876/helloworld.git package/helloworld
 
 #openclash
-git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+#git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 
 #luci-app-adguardhome
 #git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
@@ -92,6 +92,6 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant 
 
 #Turbo ACC 加速 lede包已有
 #测速
-svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-netspeedtest package/luci-app-netspeedtest
+#svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-netspeedtest package/luci-app-netspeedtest
 
 ##############################################################################################
